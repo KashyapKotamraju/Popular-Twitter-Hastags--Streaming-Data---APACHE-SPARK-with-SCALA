@@ -1,3 +1,7 @@
+/*
+Listens to Streams of tweets - Extract the HashTags - Convert to RDDs - Map to DataFarames - Save as SQL tables to HDFS - SetUp Checkpoints
+*/
+
 package spark.twee
 
 import org.apache.spark._
